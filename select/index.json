@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スキャンダラス",
+  "base_artist": "oops cool",
+  "createdAt": "2026-02-14T14:09:54.022927Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スキャンダラス",
+      "artist": "oops cool",
+      "has_synced": false,
+      "path": "select/pl_01_スキャンダラス_oops_cool.txt"
+    }
+  ]
+}
